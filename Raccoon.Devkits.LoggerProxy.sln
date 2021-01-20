@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raccoon.Devkits.LoggerProxy", "Raccoon.Devkits.LoggerProxy\Raccoon.Devkits.LoggerProxy.csproj", "{AC2BBA8E-CB7F-41D3-B5DF-45A6A2C292A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raccoon.Devkits.LoggerProxy.TestBench", "Raccoon.Devkits.LoggerProxy.TestBench\Raccoon.Devkits.LoggerProxy.TestBench.csproj", "{1E9D2F77-AA5E-46A1-944D-34487F22DEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2BBA8E-CB7F-41D3-B5DF-45A6A2C292A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2BBA8E-CB7F-41D3-B5DF-45A6A2C292A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2BBA8E-CB7F-41D3-B5DF-45A6A2C292A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2BBA8E-CB7F-41D3-B5DF-45A6A2C292A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9D2F77-AA5E-46A1-944D-34487F22DEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9D2F77-AA5E-46A1-944D-34487F22DEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9D2F77-AA5E-46A1-944D-34487F22DEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9D2F77-AA5E-46A1-944D-34487F22DEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D262F5AD-C7A0-493A-A03D-CCFA8828D430}
+	EndGlobalSection
+EndGlobal
